@@ -1,0 +1,14 @@
+D:\Franz Files\SDM Subject\Pamarang\bin\Debug\TestCal.exe.config
+D:\Franz Files\SDM Subject\Pamarang\bin\Debug\TestCal.exe
+D:\Franz Files\SDM Subject\Pamarang\bin\Debug\TestCal.pdb
+D:\Franz Files\SDM Subject\Pamarang\bin\Debug\TestCal.xml
+D:\Franz Files\SDM Subject\Pamarang\obj\Debug\Lignes.vbproj.AssemblyReference.cache
+D:\Franz Files\SDM Subject\Pamarang\obj\Debug\Lignes.vbproj.SuggestedBindingRedirects.cache
+D:\Franz Files\SDM Subject\Pamarang\obj\Debug\TestCal.frmCal.resources
+D:\Franz Files\SDM Subject\Pamarang\obj\Debug\TestCal.Form2.resources
+D:\Franz Files\SDM Subject\Pamarang\obj\Debug\TestCal.Resources.resources
+D:\Franz Files\SDM Subject\Pamarang\obj\Debug\Lignes.vbproj.GenerateResource.cache
+D:\Franz Files\SDM Subject\Pamarang\obj\Debug\Lignes.vbproj.CoreCompileInputs.cache
+D:\Franz Files\SDM Subject\Pamarang\obj\Debug\TestCal.exe
+D:\Franz Files\SDM Subject\Pamarang\obj\Debug\TestCal.xml
+D:\Franz Files\SDM Subject\Pamarang\obj\Debug\TestCal.pdb
